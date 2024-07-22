@@ -3,7 +3,7 @@ The ARIMA (Autoregressive Integrated Moving Average) model is used in this study
 
 INTRODUCTION
 -------
-This study gives a detailed examination and proves the ARIMA model's effectiveness in forecasting temperature trends across these disparate geographical regions. The study's major goal is to demonstrate the ARIMA model's relevance and effectiveness in predicting climatic trends, particularly in the context of average temperature measurements, in the aforementioned nations. The study's major goal is to demonstrate the ARIMA model's relevance and effectiveness in predicting climatic trends, particularly in the context of average temperature measurements, in the aforementioned nations.
+This study gives a detailed examination and proves the ARIMA model's effectiveness in forecasting temperature trends across these disparate geographical regions. The study's major goal is to demonstrate the ARIMA model's relevance and effectiveness in predicting climatic trends, particularly in the context of average temperature measurements, in the aforementioned nations.
 
 # RESULT AND DISCUSSION
 -------
